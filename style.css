@@ -1,0 +1,101 @@
+h1
+{
+
+color: gray;
+font-style: italic;
+
+
+}
+
+h2
+{
+
+    color:aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h3
+{
+ 
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+body
+{
+    
+      background-image: url(https://webneel.com/wallpaper/sites/default/files/images/08-2018/2-nature-wallpaper-grass.jpg);
+
+}
+
+button
+{
+    
+    background-color: silver;
+    color: black;
+    text-decoration-color: blue; 
+
+}
+    ::-webkit-input-placeholder{
+    color:blue;
+}
+
+.bt1
+{
+    padding: 5px 15px;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color:cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 5px #999;
+
+}
+.bt1:hover{background-color: black;}
+.bt1:active{
+    background-color: yellow;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+
+}
+
+.bt
+{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+
+}
+.bt:hover{background-color: red;}
+.bt:active
+{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    
+
+}
+    
+#d{
+margin-right: 59px;
+height: 550px;
+width: 300px;
+background-color:silver;
+border-radius: 15px;
+border: none;
+ 
+}
+
+    
